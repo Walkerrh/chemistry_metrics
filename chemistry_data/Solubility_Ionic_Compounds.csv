@@ -1,0 +1,18 @@
+Cations,Chloride (Cl-),Bromide (Br-),Iodide (I-),Oxide (O2-),Sulfide (S2-),Hydroxide (OH-),Carbonate (CO32-),Chromate (CrO42-),Sulfate (SO42-),Acetate (CH3CO2-),Nitrate (NO3-)
+NH4+,yes,yes,yes,--,yes,yes,yes,yes,yes,yes,yes
+Na+,yes,yes,yes,rxn,yes,yes,yes,yes,yes,yes,yes
+K+,yes,yes,yes,rxn,yes,yes,yes,yes,yes,yes,yes
+Mg2+,yes,yes,yes,NO,rxn,NO,slight,--,yes,yes,yes
+Ca2+,yes,yes,yes,rxn,rxn,slight,NO,slight,slight,yes,yes
+Ba2+,yes,yes,yes,yes,yes,yes,NO,NO,NO,yes,yes
+Mn2+,yes,yes,yes,NO,NO,NO,NO,--,yes,yes,yes
+Fe2+,yes,yes,yes,NO,NO,NO,NO,--,yes,yes,yes
+Fe3+,yes,yes,--,NO,--,NO,--,NO,yes,NO,yes
+Cu2+,yes,yes,--,NO,NO,NO,NO,NO,yes,yes,yes
+Ni2+,yes,yes,yes,NO,NO,NO,NO,NO,yes,yes,yes
+Cd2+,yes,yes,yes,NO,NO,NO,NO,NO,yes,yes,yes
+Zn2+,yes,yes,yes,NO,NO,NO,NO,yes,yes,yes,yes
+Sn2+,yes,yes,slight,NO,NO,NO,--,--,yes,yes,--
+Hg2+,yes,slight,NO,NO,NO,NO,NO,NO,rxn,yes,yes
+Pb2+,slight,slight,NO,NO,NO,NO,NO,NO,NO,yes,yes
+Ag+,NO,NO,NO,NO,NO,--,NO,NO,slight,slight,yes

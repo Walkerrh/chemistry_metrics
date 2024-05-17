@@ -1,0 +1,20 @@
+unit,abbreviation,conversion_factors
+kilogram,kg,1 kg = 2.2046 lb
+pound,lb,1 lb = 453.59237 g (exact)
+ounce,oz,1 oz = 28.350 g
+ton (short),ton,1 ton = 2000 lb (exact)
+tonne (metric ton),t,1 t = 1000 kg (exact)
+dalton,Da,1 Da = 1.6605 × 10^-27 kg
+atomic mass unit,u,1 u = 1 Da
+meter,m,1 m = 39.370 in
+kilometer,km,1 km = 0.62137 mi
+inch,in,1 in = 2.54 cm (exact)
+yard,yd,1 yd = 0.9144 m (exact)
+mile,mi,"1 mi = 1.6093 km, 5280 ft (exact)"
+liter,L,1 L = 1.0569 qt
+fluid ounce,fl oz,1 fl oz = 29.574 mL
+gallon (US),gal,1 gal = 3.7854 L
+atmosphere,atm,"1 atm = 101.325 kPa (exact), 760 torr (exact), 14.696 psi, 1.01325 bar (exact), 760 mmHg (exact)"
+bar,bar,1 bar = 100 kPa (exact)
+calorie,cal,1 cal = 4.184 J (exact)
+electron volt,eV,1 eV = 1.6022 × 10^-19 J

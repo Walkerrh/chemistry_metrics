@@ -1,0 +1,11 @@
+unit,unit_symbol,conversion_factors
+newton,N,1 N = 1 kg∙m∙s^-2
+joule,J,1 J = 1 kg∙m^2∙s^-2
+joule,J,1 J = 1 N∙m
+joule,J,1 J = 1 Pa∙m^3
+watt,W,1 W = 1 kg∙m^2∙s^-3
+watt,W,1 W = 1 J∙s^-1
+pascal,Pa,1 Pa = 1 kg∙m^-1∙s^-2
+pascal,Pa,1 Pa = 1 N∙m^-2
+hertz,Hz,1 Hz = 1∙s^-1
+liter,L,1 L = 1/1000 m^3

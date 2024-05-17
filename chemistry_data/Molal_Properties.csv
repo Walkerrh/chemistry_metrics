@@ -1,0 +1,16 @@
+Name,Chemical Formula,Melting Point (°C),Boiling Point (°C),Molal Freezing Point Depression Constant (Kf) (°C·kg·mol-1),Molal Boiling Point Elevation Constant (Kb) (°C·kg·mol-1)
+acetic acid,CH3CO2H,17.0,117.9,3.63,3.22
+benzene,C6H6,5.538,80.08,5.07,2.64
+benzonitrile,C6H5CN,-12.82,191.0,5.35,
+carbon disulfide,CS2,-111.7,46.2,,2.42
+carbon tetrachloride,CCl4,-22.8,76.7,,5.26
+cyclohexane,C6H12,6.7,80.7,20.8,2.92
+dibenzyl ether,(C6H5CH2)2O,1.8,298.0,6.17,
+diethyl ether,CH3CH2OCH2CH3,-116.22,34.4,,2.2
+ethanol,CH3CH2OH,-114.14,78.24,,1.23
+ethylene glycol,(CH2OH)2,-13.0,197.5,3.11,2.26
+formamide,NH2COH,2.57,217.0,4.25,
+hexane,C6H14,-95.27,68.72,,2.9
+methanol,CH3OH,-97.5,64.5,,2.9
+naphthalene,C10H8,80.22,218.0,7.45,
+water,H2O,0.0,99.974,1.86,0.513

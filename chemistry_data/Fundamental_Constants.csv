@@ -1,0 +1,16 @@
+constant,symbol,value
+Avogadro's number,NA,6.02214×10^23
+gas constant,R,0.0820574 L·atm·mol^-1·K^-1
+gas constant,R,8.31446 J·mol^-1·K^-1
+speed of light in a vacuum,c,299792458 m·s^-1 (exact)
+Planck constant,h,6.62607×10^-34 J·s
+Rydberg energy,Ry,2.17987×10^-18 J
+Boltzmann constant,kB,1.38065×10^-23 J·K^-1
+elementary charge,e,1.60218×10^-19 C
+mass of electron,me,9.10938×10^-31 kg
+atomic mass unit,u,1.66054×10^-27 kg
+standard acceleration due to Earth's gravity,g,9.80665 m·s^-2 (exact)
+ion product of water,Kw,1.01158×10^-14 M^2
+Faraday constant,F,96485.3 C·mol^-1
+Coulomb constant,k,8.98755×10^9 N·m^2·C^-2
+permittivity of free space,ε0,8.85419×10^-12 N^-1·m^-2·C^2

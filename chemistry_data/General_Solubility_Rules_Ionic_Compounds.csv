@@ -1,0 +1,17 @@
+Component,Exceptions
+"All common compounds of Group 1 (1A) metal cations (Li+, Na+, K+, etc.)",None
+All common compounds of ammonium ion (NH4+),None
+All common compounds of nitrate (NO3-),None
+All common compounds of acetate (CH3COO-),None
+All common compounds of chlorate (ClO3-),None
+All common compounds of perchlorate (ClO4-),None
+All common compounds of bromide (Br-),"Bromides of Ag+, Hg2+2, and Pb2+"
+All common compounds of chloride (Cl-),"Chlorides of Ag+, Hg2+2, and Pb2+"
+All common compounds of iodide (I-),"Iodides of Ag+, Cu+, Hg2+2, and Pb2+"
+All common compounds of sulfates (SO42-),"Sulfates of Ag+, Ca2+, Hg2+2, Pb2+, Sr2+, and Ba2+"
+Compounds of carbonate (CO32-),Carbonates of Group 1 (1A) cations and NH4+
+Compounds of chromate (CrO42-),"Chromates of Group 1 (1A) cations, NH4+, Ca2+, and Mg2+"
+Compounds of fluoride (F-),"Fluorides of Group 1 (1A) cations, NH4+, Ag+, Sn2+, Sr2+, and Zn2+"
+Compounds of hydroxide (OH-),"Hydroxides of Group 1 (1A) cations, NH4+, Ba2+, Ca2+, and Sr2+"
+Compounds of phosphate (PO43-),Phosphates of Group 1 (1A) and NH4+
+Compounds of sulfide (S2-),"Sulfides of Group 1 (1A), NH4+, and Sr2+"
